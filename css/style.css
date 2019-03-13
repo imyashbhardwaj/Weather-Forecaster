@@ -1,0 +1,15 @@
+body{
+  background-size:cover;
+}
+h2{
+  color:rgb(215,200,80);
+}
+#F{
+ // background-color:rgb(120,0,0);
+  margin-bottom:20px;
+  margin-right:50px;
+}
+img{
+  height:100px;
+  width:100px;
+}
